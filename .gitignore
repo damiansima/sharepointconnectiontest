@@ -1,0 +1,4 @@
+src/main/resources/credentials.properties
+.project
+.settings/
+target/
